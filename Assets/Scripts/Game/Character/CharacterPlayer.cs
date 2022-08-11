@@ -128,6 +128,7 @@ namespace Game.Character
 
         public void Shoot()
         {
+            if (!_isShooting) return;
             var bullet = _bulletPool.ObjectPool.Get<Bullet>(_aimTarget.position);
             bullet.Direction = (_goalShoot - _aimTarget.position).normalized;
         }
