@@ -7985,9 +7985,9 @@ Camera:
     y: 0
     width: 1
     height: 1
-  near clip plane: 0.001
+  near clip plane: 0.05
   far clip plane: 1000
-  field of view: 64.64
+  field of view: 81.9
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -17205,9 +17205,9 @@ MonoBehaviour:
   m_LookAt: {fileID: 1305745579}
   m_Follow: {fileID: 1305745579}
   m_Lens:
-    FieldOfView: 64.64
+    FieldOfView: 81.9
     OrthographicSize: 5
-    NearClipPlane: 0.001
+    NearClipPlane: 0.05
     FarClipPlane: 1000
     Dutch: 0
     LensShift: {x: 0, y: 0}
