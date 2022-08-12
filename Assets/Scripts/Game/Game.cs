@@ -1,6 +1,4 @@
-﻿using System;
-using Game.UI;
-using UnityEditor.SearchService;
+﻿using Game.UI;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
