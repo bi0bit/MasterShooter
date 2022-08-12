@@ -6,7 +6,6 @@ https://user-images.githubusercontent.com/33226671/184254969-03a06d6f-c8ac-41c5-
 
 ## Features
 - move from point to point
-- action triggers in way
 - ragdoll activate on enemy death
 - IK hand character move 
 
